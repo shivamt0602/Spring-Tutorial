@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- this is me trying to learn spring boot. 
+ this is me trying to learn spring boot. i am ${name}
 </body>
 </html>
