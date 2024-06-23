@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- this is me trying to learn spring boot. i am ${name}
+ also this is ${obj.aname} ${obj.aid} ${obj.alanguage}
 </body>
 </html>
